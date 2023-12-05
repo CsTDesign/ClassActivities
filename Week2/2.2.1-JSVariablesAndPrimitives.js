@@ -1,4 +1,5 @@
 // create a constant variable (const)
+// eslint-disable-next-line no-unused-vars
 const name = "Cory Taylor";
 
 // create a variable that can be reassigned (let)
@@ -7,6 +8,7 @@ let numberVar = 20;
 // create three variables and assign them values of different data types (=)
 let variable = 1;
 let secondVar = "Hello World";
+// eslint-disable-next-line no-unused-vars
 let thirdVar = true;
 
 // print the types of two variables that reference two different data types (typeof)
