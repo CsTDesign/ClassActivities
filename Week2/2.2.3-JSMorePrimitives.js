@@ -20,6 +20,7 @@ console.log(nullVar);
 console.log(typeof nullVar);
 // Try to print a variable that does not exist
 // What should we expect to print in the CLI?
+// eslint-disable-next-line no-undef
 console.log(randomVar);
 // Print "greeting" again
 // Will this line run?
